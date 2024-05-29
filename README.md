@@ -1,8 +1,6 @@
 <p align="center">
-  <img alig src="https://github.com/SuperSupeng/SuperSupeng/blob/master/about.gif" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 </p>
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=SuperSupeng&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 
 <h2 align="center">
@@ -23,16 +21,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=3D+Artist&font=Fira%20Code&center=true&width=440&height=45&weight=500&color=ff0000&vCenter=true&size=22"></a>
 </p> 
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
-
-
-🚀 As a passionate learner diving into the world of software development, I'm driven by the excitement of exploring blockchain and backend technologies. While my journey is just beginning
-
-
-📚 With a thirst for knowledge and a dedication to growth, I actively seek opportunities to expand my skill set through hands-on experience and collaboration with peers. By immersing myself in open-source projects and embracing challenges head-on, I'm determined to become a versatile developer ready to tackle any task that comes my way. Let's connect and embark on this journey together! 🌟
-
-💬 As I embark on this journey of exploration and growth, I invite you to reach out to me through my social channels without hesitation. Whether you have questions, ideas to share, or simply want to connect with a fellow enthusiast, I'm here to engage in meaningful conversations and foster a supportive community of learners. Let's connect and inspire each other on this exciting path of discovery! 🌟
-
+- :computer: I'm a Software Engineer & 3D-Artist
+- :hourglass_flowing_sand: Exploring The World of Ai & Machine Learning
+- :rocket: Always ready to collaborate for Dev Experiments and 3D-Projects
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 <br/>  
 
