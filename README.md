@@ -60,6 +60,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F93990%2Fassembly&psig=AOvVaw1heCOg7gc5vk73Tu-rLZvK&ust=1717062848875000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMiOh97LsoYDFQAAAAAdAAAAABAE)" alt="Git" height="50" />  
 
 </div></td><td valign="top" width="33%">
 <br>
