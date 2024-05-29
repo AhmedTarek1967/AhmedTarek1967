@@ -38,7 +38,7 @@
 ## Tech languages: 📚
 <div >  
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=Pyhton&value=60&design=candy&fill=ff69b4">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Python">
 </a>
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" height="50" />  
