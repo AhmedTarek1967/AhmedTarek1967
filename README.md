@@ -60,7 +60,7 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
  <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="[https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg](https://github.com/tandpfun/skill-icons/blob/main/icons/Blender-Dark.svg)" alt="Blender" height="50" />  
+<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" alt="Blender" height="50" />  
 
 </div></td><td valign="top" width="33%">
 <br>
