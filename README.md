@@ -60,7 +60,7 @@
 ## My Current Learnings: 📚
 <div >  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
- <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="C#" height="50" /> 
+ <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/C#" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 
 </div></td><td valign="top" width="33%">
@@ -84,4 +84,15 @@
 
 # My Recently Obtained Certifications 🎓
 [<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">]()
+
+
+name: Full-year calendar
+uses: lowlighter/metrics@latest
+with:
+  filename: metrics.plugin.isocalendar.fullyear.svg
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+  plugin_isocalendar: yes
+  plugin_isocalendar_duration: full-year
+
 
