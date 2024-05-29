@@ -37,8 +37,8 @@
 
 ## Tech languages: 📚
 <div >  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="50" />  
- <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" height="50" /> 
+![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=Python)](https://github.com/harish-sethuraman/readme-components)
+<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" height="50" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="Git" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Blender-Dark.svg" alt="Blender" height="50" />  
 
@@ -75,17 +75,8 @@
   
 
 <br/>  
-
 ![Profile views counter](https://komarev.com/ghpvc/?username=AhmedTarek1967&&style=flat-square)  
-  
-
 <br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.AhmedTarek1967.dev/" target="_blank">Github Profilinator</a></div>
 
 
 ## Connect with me  
