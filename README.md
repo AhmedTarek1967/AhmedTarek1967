@@ -47,9 +47,7 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=false&animation=spin">
 </a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&animation=spin">
-</a>
+
 
 
 
@@ -64,9 +62,12 @@
 
 
 
-# My Recently Obtained Certifications 🎓
-[<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">]()
-
+## 3D Skills 🧑‍🎨:
+<div>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&animation=spin">
+</a>
+</div>
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
