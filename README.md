@@ -85,12 +85,3 @@
 # My Recently Obtained Certifications 🎓
 [<img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="python" width="50" height="50">]()
 
-
-
-
----
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gkhan205&layout=compact&theme=dark&hide_border=true)
