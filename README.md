@@ -1,13 +1,13 @@
 
 
 <h2 align="center">
- <span >  Hi there! I'm </span> <em>Mohamed Khaled</em>
+ <span >  Hi there! I'm </span> <em>Ahmed Tarek</em>
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 
-## ,🚀 On My Journey to Master Full Stack Development
+## ,🚀 On My Journey to Master Software engineering
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-🚀 As a passionate learner diving into the world of front-end development, I'm driven by the excitement of exploring blockchain and backend technologies. While my journey is just beginning, I'm committed to mastering Next.js, React, and Node.js to lay a strong foundation for future endeavors.
+🚀 As a passionate learner diving into the world of software development, I'm driven by the excitement of exploring blockchain and backend technologies. While my journey is just beginning
 
 
 📚 With a thirst for knowledge and a dedication to growth, I actively seek opportunities to expand my skill set through hands-on experience and collaboration with peers. By immersing myself in open-source projects and embracing challenges head-on, I'm determined to become a versatile developer ready to tackle any task that comes my way. Let's connect and embark on this journey together! 🌟
