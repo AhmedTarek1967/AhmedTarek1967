@@ -55,13 +55,6 @@
 <br>
 
 
-
-<br>
-
-
-
-
-
 ## 3D Skills 🧑‍🎨:
 <div>
 <a href="https://github.com/harish-sethuraman/readme-components">
@@ -80,12 +73,6 @@
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-![Profile views counter](https://komarev.com/ghpvc/?username=AhmedTarek1967&&style=flat-square)  
 <br/>  
 
 
