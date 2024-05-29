@@ -38,14 +38,14 @@
 ## Tech languages: 📚
 <div >  
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=ffff00&animation=spin">
 </a>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=false&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=false&fill=ff0000&animation=spin">
 </a>
 
 
@@ -65,7 +65,7 @@
 ## 3D Skills 🧑‍🎨:
 <div>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&color=orange&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&fill=FFA500&animation=spin">
 </a>
 </div>
 
