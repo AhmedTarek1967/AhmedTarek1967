@@ -38,7 +38,7 @@
 ## Tech languages: 📚
 <div >  
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=ffff00&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=0000ff&animation=spin">
 </a>
  
 <a href="https://github.com/harish-sethuraman/readme-components">
