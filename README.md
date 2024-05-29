@@ -47,10 +47,14 @@
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin">
 </a>
+
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=false&fill=ff0000&animation=spin">
 </a>
 
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=false&fill=000000&animation=spin">
+</a>
 
 
 
