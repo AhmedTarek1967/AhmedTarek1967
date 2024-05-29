@@ -38,7 +38,7 @@
 <br/>
 
 
-## Technologies and tools : 📚
+## 👨‍💻 Technologies and tools : 
 <div >  
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=0000ff&animation=spin">
@@ -58,7 +58,7 @@
 <br>
 
 
-## 3D Skills : 🧑‍🎨
+## 🎨 3D Skills : 
 <div>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&fill=FFA500&animation=spin">
@@ -79,8 +79,8 @@
 <br/>  
 
 
-## Connect with me  
-<div >
+## ❤️ Connect with me  
+<div align="center" >
  <a href="https://www.linkedin.com/in/ahmed-tarek-a9160b2b6">
    <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" />  
 </a>
