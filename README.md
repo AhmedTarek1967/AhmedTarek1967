@@ -7,8 +7,6 @@
 </h2>
 
 
-## ,🚀 On My Journey to Master Software engineering
-
 
 
 
