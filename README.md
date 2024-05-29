@@ -12,7 +12,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20developer;3D-Artist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;3D-Artist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 
@@ -35,7 +35,7 @@
 <br/>
 
 
-## My Current Learnings: 📚
+## Tech languages: 📚
 <div >  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg" alt="Python" height="50" />  
  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CS.svg" alt="C#" height="50" /> 
@@ -47,14 +47,6 @@
 </div></td><td valign="top" width="33%">
 <br>
 
-
-
-## Expanding Horizons: Skills on My Learning Radar 🎯
-
-
-<div >  
-
-</div>
 
 
 <br>
@@ -98,10 +90,10 @@
 
 ## Connect with me  
 <div >
+ <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" />  
 <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram" height="50" />  
-<img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" />  
- <img style="margin: 10px" src="https://www.flaticon.com/free-icon/facebook_1409943" alt="Facebook" height="50" />
- <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="X" height="50" /> 
- <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Gmail" height="50" />  
+ <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" height="50" />
+ <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" height="50" /> 
+ <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="50" />  
 </div>  
 
