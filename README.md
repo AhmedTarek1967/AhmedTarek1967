@@ -65,7 +65,7 @@
 ## 3D Skills 🧑‍🎨:
 <div>
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&color=orange&animation=spin">
 </a>
 </div>
 
