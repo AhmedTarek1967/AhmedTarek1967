@@ -94,10 +94,21 @@
    <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" />  
 </a>
 
+<a href="https://www.instagram.com/ahmedtarek_2901">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram" height="50" />  
+</a>
 
- <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Instagram.svg" alt="Instagram" height="50" />  
- <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" height="50" />
- <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" height="50" /> 
- <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="50" />  
+<a href="https://www.facebook.com/AhmedTarek2901">
+   <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" alt="Facebook" height="50" />
+</a>
+
+<a href="https://x.com/tarek2003_ahmed">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" height="50" /> 
+</a>
+
+<a href="https://www.gmail.com/ahmedtarek19672003@gmail.com">
+    <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="50" />  
+</a>
+
 </div>  
 
