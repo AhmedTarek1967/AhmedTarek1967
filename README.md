@@ -12,7 +12,10 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;3D-Artist;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=3D+Artist&font=Fira%20Code&center=true&width=440&height=45&weight=500&color=ff0000&vCenter=true&size=22"></a>
 </p> 
 
 
@@ -35,7 +38,7 @@
 <br/>
 
 
-## Tech languages: 📚
+## Technologies and tools : 📚
 <div >  
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=0000ff&animation=spin">
@@ -55,7 +58,7 @@
 <br>
 
 
-## 3D Skills 🧑‍🎨:
+## 3D Skills : 🧑‍🎨
 <div>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&fill=FFA500&animation=spin">
