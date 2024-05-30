@@ -24,7 +24,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Software Engineer & 3D-Artist
-- :student: I'm a CS student who graduated from Mansoura University
+- :student: I'm a CS student
 - :hourglass_flowing_sand: Exploring The World of Ai & Machine Learning
 - :rocket: Always ready to collaborate for Dev Experiments and 3D-Projects
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
