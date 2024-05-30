@@ -24,6 +24,7 @@
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - :computer: I'm a Software Engineer & 3D-Artist
+- :student: I'm a CS student who graduated from Mansoura University
 - :hourglass_flowing_sand: Exploring The World of Ai & Machine Learning
 - :rocket: Always ready to collaborate for Dev Experiments and 3D-Projects
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
@@ -70,13 +71,13 @@
 </div>
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="50%" >
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedTarek1967&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AhmedTarek1967&show_icons=true&theme=radical&count_private=true&hide_border=true&disable_animations=false" align="left" style="width: 200%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek1967&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek1967&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -104,6 +105,4 @@
 <a href="ahmedtarek19672003@gmail.com">
     <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="50" />  
 </a>
-
 </div>  
-
