@@ -70,6 +70,7 @@
 </div>
 
 ## Github Stats  
+<div align="center">
 <table><tr><td valign="top" width="50%" >
 
 <img src="https://github-readme-stats.vercel.app/api?username=AhmedTarek1967&show_icons=true&theme=radical&count_private=true&hide_border=true&disable_animations=false" align="left" style="width: 200%" />
@@ -79,7 +80,7 @@
 <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek1967&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
-
+</div>
 <br/>  
 
 
