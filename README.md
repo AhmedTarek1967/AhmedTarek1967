@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="800">
 </p>
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="">
+</a>
 
 <h2 align="center">
  <span >  Hi there! I'm </span> <em>Ahmed Tarek</em>
