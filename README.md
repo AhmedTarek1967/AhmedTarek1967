@@ -40,19 +40,19 @@
 
 ## 👨‍💻 Technologies and tools : 
 <div >  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.python.org">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=0000ff&animation=spin">
 </a>
  
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://git-scm.com">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=false&fill=ff0000&animation=spin">
 </a>
 
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://github.com">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=false&fill=000000&animation=spin">
 </a>
 
@@ -64,7 +64,7 @@
 
 ## 🎨 3D Skills : 
 <div>
-<a href="https://github.com/harish-sethuraman/readme-components">
+<a href="https://www.blender.org">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&fill=FFA500&animation=spin">
 </a>
 </div>
