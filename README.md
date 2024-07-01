@@ -41,7 +41,7 @@
 ## 👨‍💻 Technologies and tools : 
 <div >  
 <a href="https://www.python.org">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=0000ff&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=9ACD32&animation=spin">
 </a>
  
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
@@ -53,9 +53,12 @@
 </a>
 
 <a href="https://github.com">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=false&fill=000000&animation=spin">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=false&fill=black&animation=spin">
 </a>
 
+<a href="https://github.com">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=postgreSQL&text=false&fill=blue&animation=spin">
+</a>
 
 
 </div></td><td valign="top" width="33%">
