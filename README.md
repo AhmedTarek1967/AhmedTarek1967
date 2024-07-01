@@ -105,7 +105,3 @@
   <img style="margin: 10px" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Twitter.svg" alt="Twitter" height="50" /> 
 </a>
 
-<a href="ahmedtarek19672003@gmail.com">
-    <img style="margin: 10px" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="Gmail" height="50" />  
-</a>
-</div>  
