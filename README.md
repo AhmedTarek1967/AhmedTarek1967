@@ -39,15 +39,17 @@
 <br/>
 
 
-<h2 align = "center"> 👨‍💻 Technologies and tools : </h2>
+<h2 align = "center"> 👨‍💻 Programming Languages & Services : </h2>
 <div align ="center" >  
 <a href="https://www.python.org">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=9ACD32&animation=spin">
 </a>
- 
+
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin">
 </a>
+
+
 
 <a href="https://github.com">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=postgreSQL&text=false&fill=blue&animation=spin">
@@ -57,18 +59,26 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=MySQL&text=false&fill=ffce00&animation=spin">
 </a>
 
-<a href="https://git-scm.com">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=false&fill=ff0000&animation=spin">
-</a>
 
-<a href="https://github.com">
-<img  src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=false&fill=black&animation=spin">
-</a>
 
 </div></td><td valign="top" width="33%">
 <br>
 
+<h2 align = "center"> 👨‍💻 Technologies & Tools : </h2>
+<div align = "center">
+ <a href="https://numpy.org/">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Numpy&text=true&fill=36C2CE&animation=spin">
+</a>
 
+<a href="https://git-scm.com">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&fill=ff0000&animation=spin">
+</a>
+
+<a href="https://github.com">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=true&fill=black&animation=spin">
+</a>
+
+</div>
 <h2 align = "center"> 🎨 3D Skills : </h2>
 <div align = "center">
 <a href="https://www.blender.org">
