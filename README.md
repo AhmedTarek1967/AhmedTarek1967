@@ -50,12 +50,11 @@
 </a>
 
 
-
-<a href="https://github.com">
+<a href="https://www.postgresql.org">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=postgreSQL&text=false&fill=blue&animation=spin">
 </a>
 
-<a href="https://github.com">
+<a href="https://www.mysql.com">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=MySQL&text=false&fill=ffce00&animation=spin">
 </a>
 
