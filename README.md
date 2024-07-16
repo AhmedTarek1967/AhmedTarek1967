@@ -45,9 +45,11 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=9ACD32&animation=spin">
 </a>
 
+<!--
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin">
 </a>
+-->
 
 
 <a href="https://www.postgresql.org">
