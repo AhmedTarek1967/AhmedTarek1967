@@ -45,12 +45,13 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=9ACD32&animation=spin">
 </a>
 
-<!--
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin">
 </a>
--->
 
+<a href="https://cplusplus.com/">
+<img  src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=044F88&animation=spin">
+</a>
 
 <a href="https://www.postgresql.org">
 <img  src="https://readme-components.vercel.app/api?component=logo&logo=postgreSQL&text=false&fill=blue&animation=spin">
