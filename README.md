@@ -1,12 +1,18 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+is+AHMED+TAREK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hvczJiMDF0bmJ3OGpsMG1zdnVzdG1iZDNvem9tOWRpaXV3ejVjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
+<div>
+<p align="right">
+<img align="right" alt="Coding" height="100%" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hvczJiMDF0bmJ3OGpsMG1zdnVzdG1iZDNvem9tOWRpaXV3ejVjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
 <p align="left">
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+is+AHMED+TAREK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
+
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Software+Engineer+From+Egypt&font=Fira+Code&center=true&width=540&height=45&weight=500&color=ff0000&vCenter=true&size=22">
   </a>
 </p>
+
 
 
 
@@ -18,28 +24,33 @@
 - 🎯 Motto: *"Explore 🔥 and Explode 💣 with knowledge"*  
 - ⚡ Enjoy tech meetups and conferences  
 
----
 
+</p>
+</div>
+
+---
+<p align="right">
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTZmYXhwb28wc3VucGtieW96dndjMmd6NXA2czJmYzhwbnhrNXoxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6LsVG2cSztXoMhRHBP/giphy.gif">
+</p>
 <h3> 🛠️ Tech Stack</h3>
 
 #### 👨‍💻 Programming Languages
-<p>
-  <a href="https://www.Java.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Java&text=false&fill=fffff&animation=spin"></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=false&animation=spin"></a>
-  <a href="https://cplusplus.com/"><img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&fill=044F88&animation=spin"></a>
-  <a href="https://www.python.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=false&fill=9ACD32&animation=spin"></a>
+<p align="left">
+  <a href="https://www.Java.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Java&text=true&fill=000000&animation=spin"></a>
+  <a href="https://cplusplus.com/"><img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=treue&fill=044F88&animation=spin"></a>
+  <a href="https://www.python.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=true&fill=9ACD32&animation=spin"></a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=1&animation=spin"></a>
 </p>
 
 #### 🗄️ Databases
-<p>
+<p align="left">
   <a href="https://www.postgresql.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=postgreSQL&text=false&fill=blue&animation=spin"></a>
   <a href="https://www.mysql.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=MySQL&text=false&fill=ffce00&animation=spin"></a>
 </p>
 
 #### 🛠️ Tools & Technologies
-<p>
-  <a href="https://www.blender.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&fill=FFA500&animation=spin"></a>
+<p align="left"> 
+  <a href="https://www.blender.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=Blender&text=false&text=true&fill=FFA500&animation=spin"></a>
   <a href="https://git-scm.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&fill=ff0000&animation=spin"></a>
   <a href="https://github.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=true&fill=black&animation=spin"></a>
 </p>
