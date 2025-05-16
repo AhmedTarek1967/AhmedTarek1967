@@ -2,13 +2,13 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+is+AHMED+TAREK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hvczJiMDF0bmJ3OGpsMG1zdnVzdG1iZDNvem9tOWRpaXV3ejVjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="center">
+<p align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Software+Engineer+From+Egypt&font=Fira+Code&center=true&width=540&height=45&weight=500&color=ff0000&vCenter=true&size=22">
   </a>
 </p>
 
----
+
 
 ### 🚀 About Me
 - 💻 Software Engineer & 3D-Artist  
