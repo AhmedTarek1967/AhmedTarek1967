@@ -17,7 +17,7 @@
 
 
 ### 🚀 About Me
-- 💻 Software Engineer & 3D-Artist  
+- 💻 Software Engineer & 3D-Artist with expertise in Business Analysis   
 - 🎓 CS Graduate  
 - 🌱 Currently exploring Java Backend Development
 - 🤝 Love collaborating on Dev & 3D Projects  
