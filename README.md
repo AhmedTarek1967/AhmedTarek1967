@@ -1,15 +1,17 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> </h1>
 
 <div>
+  
 <p align="right">
 <img align="right" alt="Coding" height="100%" width="40%" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hvczJiMDF0bmJ3OGpsMG1zdnVzdG1iZDNvem9tOWRpaXV3ejVjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
+
 <p align="left">
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=My+Name+is+AHMED+TAREK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=I'm+AHMED+TAREK&font=Fira%20Code&center=true&width=440&height=45&weight=600&color=00ffff&vCenter=true&size=22"></a>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Software+Engineer+From+Egypt&font=Fira+Code&center=true&width=540&height=45&weight=500&color=ff0000&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Software+Engineer&font=Fira+Code&center=true&width=540&height=45&weight=600&color=ff0000&vCenter=true&size=20">
   </a>
 </p>
 
@@ -58,19 +60,19 @@
 ---
 
 ### 📊 GitHub Stats
+<div align = "center">
+  
+  ![snake gif](https://github.com/AhmedTarek1967/AhmedTarek1967/blob/output/github-snake-dark.svg)
+</div>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedTarek1967&show_icons=true&theme=jolly&count_private=true&hide_border=true" width="49%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedTarek1967&layout=compact&theme=jolly&hide_border=true" width="49%">
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AhmedTarek1967&theme=juicyfresh&no-frame=true&row=2&column=4">
-  </a>
-</p>
+
 
 ---
-
 ### 📬 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmed-tarek-a9160b2b6"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/LinkedIn.svg" height="50"></a>
