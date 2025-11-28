@@ -8,13 +8,13 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=6000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=I'm+AHMED+TAREK" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&duration=5000&pause=100&color=00FFFF&center=true&vCenter=true&width=600&lines=I'm+AHMED+TAREK" alt="Typing SVG" />
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&duration=5000&pause=1000&color=FF0066&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Java+Developer;3D Artist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=5000&pause=200&color=FF0066&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Java+Developer;3D+Artist" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=FFFF66&center=true&vCenter=true&width=600&lines=Talk is cheap.Show me the code.;Always+Learning+New+Things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FFFF66&center=true&vCenter=true&width=600&lines=Talk+is+cheap.+Show+me+the+code.;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
