@@ -12,7 +12,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=5000&pause=200&color=FF0066&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Java+Developer;3D+Artist" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=5000&pause=200&color=FF0066&center=true&vCenter=true&width=600&lines=Passionate+Software+Engineer;Java+Developer;Business+Analyst;3D+Artist" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=FFFF66&center=true&vCenter=true&width=600&lines=Talk+is+cheap.+Show+me+the+code.;Always+Learning+New+Things" alt="Typing SVG" />
 
