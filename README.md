@@ -43,17 +43,27 @@
   <a href="https://cplusplus.com/"><img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=treue&fill=044F88&animation=spin"></a>
   <a href="https://www.python.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=Python&text=true&fill=9ACD32&animation=spin"></a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp"><img src="https://readme-components.vercel.app/api?component=logo&logo=csharp&text=1&animation=spin"></a>
+
+</p>
+
+<h3> 💾 DataBases</h3>
+
+<p align="left">
+ 
   <a href="https://www.postgresql.org"><img src="https://readme-components.vercel.app/api?component=logo&logo=postgreSQL&text=true&fill=blue&animation=spin"></a>
   <a href="https://www.mysql.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=MySQL&text=true&fill=ffce00&animation=spin"></a>
 </p>
 
-### 🛠️ Tools & Technologies
+### ⚙️ Tools & Technologies
 
 <p align="left"> 
   <a href="https://spring.io/projects/spring-boot"><img src="https://readme-components.vercel.app/api?component=logo&logo=Spring&text=true&fill=9ACD32&animation=spin"></a>
   <a href="https://maven.apache.org/"><img src="https://readme-components.vercel.app/api?component=logo&logo=Apachemaven&text=true&fill=E97A4A&animation=spin"></a>
+  <a href="https://postman.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=postman&text=true&fill=FFA500&animation=spin"></a>
   <a href="https://git-scm.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Git&text=true&fill=ff0000&animation=spin"></a>
   <a href="https://github.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Github&text=true&fill=black&animation=spin"></a>
+  <a href="https://Docker.com"><img src="https://readme-components.vercel.app/api?component=logo&logo=Docker&text=true&fill=0099ff&animation=spin"></a>
+  
 </p>
 
 ### 👨‍🎨 3D Technologies
